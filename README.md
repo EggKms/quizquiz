@@ -1,2 +1,0 @@
-# quizquiz
-study project
