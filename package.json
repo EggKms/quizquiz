@@ -1,0 +1,11 @@
+{
+    "scripts": {
+        "start": "node ./app.js",
+        "dev": "nodemon --watch \"./**/*.js\" --exec \"npm start\""
+    },
+    "devDependencies": {
+
+        "nodemon": "^3.0.2"
+
+    }
+}
